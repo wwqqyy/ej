@@ -47,7 +47,7 @@
     <table tableName="ej_comment" domainObjectName="Comment" ></table>
     <table tableName="ej_customer" domainObjectName="Customer" ></table>
     <table tableName="ej_order" domainObjectName="Order" ></table>
-    <table tableName="ej_order_line" domainObjectName="OderLine" ></table>
+    <table tableName="ej_order_line" domainObjectName="OrderLine" ></table>
     <table tableName="ej_product" domainObjectName="Product" ></table>
     <table tableName="ej_waiter" domainObjectName="Waiter" ></table>
 
